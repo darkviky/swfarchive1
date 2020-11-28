@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<tiles step1="1" step2="1.2" step3="1.4" sale="1">
+		<tile type="101" name="흙지대(하)" price1="100" price2="120" price3="140" price4="140" price5="140"/>
+		<tile type="102" name="흙지대(중)" price1="140" price2="160" price3="180" price4="180" price5="180"/>
+		<tile type="103" name="흙지대(상)" price1="180" price2="200" price3="220" price4="220" price5="220"/>
+		<tile type="104" name="나무지대(하)" price1="220" price2="240" price3="260" price4="260" price5="260"/>
+		<tile type="105" name="나무지대(중)" price1="260" price2="280" price3="300" price4="300" price5="300"/>
+		<tile type="106" name="나무지대(상)" price1="300" price2="320" price3="340" price4="340" price5="340"/>
+		<tile type="107" name="돌지대(하)" price1="340" price2="360" price3="380" price4="380" price5="380"/>
+		<tile type="108" name="돌지대(중)" price1="380" price2="400" price3="420" price4="420" price5="420"/>
+		<tile type="109" name="돌지대(상)" price1="420" price2="440" price3="460" price4="460" price5="460"/>
+	</tiles>
+</data>

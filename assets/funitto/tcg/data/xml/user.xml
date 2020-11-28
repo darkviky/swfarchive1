@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<!--<send>http://www.funitto.com/gameplay/middle/linkage/tcg/action/</send> -->
+	<send>../data/xml/</send>
+	<user>
+		<!--  게임결과를 서버로 전송할때 필요 -->
+		<id>testtest</id>
+		<nickname>테스트</nickname>
+		<cash>0</cash>
+		<tutorial>1</tutorial>
+		<score>0</score>
+	</user>
+	<storys>
+		<!--  총 9개의 스토리(1~6번까지는 무조건 1번 에피소드를 열어줌) -->
+		<story id="1" clear="-1"/>
+		<story id="2" clear="4"/>
+		<story id="3" clear="-1"/>
+		<story id="4" clear="-1"/>
+		<story id="5" clear="-1"/>
+		<story id="6" clear="-1"/>
+		<story id="7" clear="-1"/>
+		<story id="8" clear="-1"/>
+		<story id="9" clear="-1"/>
+	</storys>
+	<cashitems>
+		<!--  보유하고 있는 캐쉬아이템의 갯수만큼 cashItem엘리먼트 추가하세요.(id값은 엑셀문서 참조) -->
+	</cashitems>
+	<characters>
+		<!--  전체 캐릭터를 다 character엘리먼트로 넣어주세요.(현재 총13개)(id값은 엑셀문서 참조) -->
+		<character id="1" active="1"/>
+		<character id="2" active="1"/>
+		<character id="3" active="1"/>
+		<character id="4" active="1"/>
+		<character id="5" active="1"/>
+		<character id="6" active="1"/>
+		<character id="7" active="1"/>
+		<character id="8" active="1"/>
+		<character id="9" active="1"/>
+		<character id="10" active="1"/>
+		<character id="11" active="1"/>
+		<character id="12" active="1"/>
+		<character id="13" active="1"/>
+	</characters>
+	<result>1</result>
+	<log>
+		<mille>1237956911322</mille>
+	</log>
+</data>

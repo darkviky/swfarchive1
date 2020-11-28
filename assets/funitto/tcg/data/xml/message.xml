@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by keru (EMBRACE) -->
+<!-- 1. 줄바꿈은 <br>태그를 넣어줌. -->
+<!-- 2. <font color="#000000" size="14"></font> 폰트태그 사용가능 -->
+<!-- 3. 그외의 태그는 사용가능한 것도 있으나 안정성을 위해 사용하지 마세요. -->
+<!-- 4. 태그 이외에 '<' 나 '>' 는 사용하지 마세요.. -->
+<!-- 5. 특수태그 - {gold}, {hp}, {characterName}, {buildingName}, {cardName}, {tileName}, {userName}, {userNickName} -->
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="c:\DOCUME~1\keru\MYDOCU~1\받은파~1\1111.xsd">
+	<!-- 시스템 메세지 -->
+	<systemMessages>
+		<!-- 캐릭터선택화면 관련 -->
+		<message state="캐릭터-선택">
+			<text><![CDATA[어떤 캐릭터를 선택하겠어요?]]></text>
+		</message>
+		<message state="캐릭터-결정">
+			<text><![CDATA[이 캐릭터로 출발 할까요?]]></text>
+		</message>
+		<!-- 게임진행 관련 -->
+		<message state="게임-환영">
+			<text><![CDATA[안녕 여러분~<br><font color="#FFCC00">아즈로크 TCG</font>에 오신 것을 환영해요~<br>에헴. 앞으로 신나는 모험을 떠나보자구요~ 짜잔~]]></text>
+		</message>
+		<message state="게임-대기-내턴">
+			<text><![CDATA[여러분 차례예요~<br>주사위와 카드를 적절히 사용하세요.<br>머리를 잘 써야 할거예요~]]></text>
+		</message>
+		<message state="게임-대기-상대턴">
+			<text><![CDATA[상대방 차례네요~<br>잠시만 기다려 주겠어요~?<br>상대는 주사위가 얼마 나올까요~? 두근.]]></text>
+		</message>
+		<!-- 영토타일관련(유저) -->
+		<message state="유저-빈타일-도착-구매">
+			<text><![CDATA[빈 영토에 들어왔네요~<br>자~ 영토를 사겠어요~?]]></text>
+		</message>
+		<message state="유저-빈타일-도착-구매-현금부족">
+			<text><![CDATA[빈 영토긴 하지만 골드가 부족해요~<br>아쉽게 됐어요!]]></text>
+		</message>
+		<message state="유저-상대타일-도착">
+			<text><![CDATA[윽! 상대방영토에 들어왔군요!<br>돈을 내야겠지요?<br>안타깝지만 어쩔 수 없어요.]]></text>
+		</message>
+		<message state="유저-무기점-도착">
+			<text><![CDATA[후훗!!<br>무기카드를 획득했어요~<br>다음 전투에서 꼭 써보자구요~]]></text>
+		</message>
+		<message state="유저-무기점-도착-카드공간부족">
+			<text><![CDATA[받은 무기카드를 넣을 공간이 부족해요~<br>원래 카드를 클릭해서 새 카드와 교환해주세요~]]></text>
+		</message>
+		<message state="유저-상점-도착">
+			<text><![CDATA[오호~<br>이벤트 카드를 얻었어요~]]></text>
+		</message>
+		<message state="유저-상점-도착-카드공간부족">
+			<text><![CDATA[받은 이벤트카드를 넣을 공간이 부족해요~<br>원래 카드를 클릭해서 새 카드와 교환해주세요~]]></text>
+		</message>
+		<message state="유저-콜로세움-도착">
+			<text><![CDATA[여기서 설정할 필요없음-전투영토선택,전투비용설정에서 설정]]></text>
+		</message>
+		<message state="유저-나무집-도착">
+			<text><![CDATA[이 지역에서는 전투를 피할 수 있어요.]]></text>
+		</message>
+		<message state="유저-펀콘샵-도착">
+			<text><![CDATA[건강해 졌어요~<br>다음엔 더욱 힘내서 싸워보자구요~]]></text>
+		</message>
+		<message state="유저-은행-도착">
+			<text><![CDATA[여기서는 세금을 두 배로 받을 수 있어요~<br>아싸~~]]></text>
+		</message>
+		<!-- 영토타일관련(npc) -->
+		<message state="npc-빈타일-도착-구매">
+			<text><![CDATA[상대가 영토가 샀네요~!<br>좀 더 분발해야겠는걸요~!]]></text>
+		</message>
+		<message state="npc-빈타일-도착-구매-현금부족">
+			<text><![CDATA[현재 사용안됨..]]></text>
+		</message>
+		<message state="npc-내타일-도착">
+			<text><![CDATA[축하해요~짝짝짝!!<br>상대가 여러분 영토에 들어왔어요~<br>잊지말고 통행료를 받으세요~]]></text>
+		</message>
+		<message state="npc-무기점-도착">
+			<text><![CDATA[무기점에 도착했군요!어떤 전투 카드를 가져갔을까요? ]]></text>
+		</message>
+		<message state="npc-상점-도착">
+			<text><![CDATA[상점에 도착했군요? 어떤 이벤트 카드를 가져갔을까요?]]></text>
+		</message>
+		<message state="npc-콜로세움-도착">
+			<text><![CDATA[친구들의 영토에 전투를 신청할 지도 모르겠는걸요~]]></text>
+		</message>
+		<message state="npc-나무집-도착">
+			<text><![CDATA[이곳에선 전투를 피할 수 있어요~~]]></text>
+		</message>
+		<message state="npc-펀콘샵-도착">
+			<text><![CDATA[상대방의 HP가 회복되었어요.]]></text>
+		</message>
+		<message state="npc-은행-도착">
+			<text><![CDATA[은행에선 세금을 두배로 받을 수 있지요~~]]></text>
+		</message>
+		<!-- 이벤트타일관련(유저) -->
+		<message state="유저-시작타일-도착">
+			<text><![CDATA[시작지점에 돌아왔어요.<br>이 곳에 도착하면 여러가지 카드는 물론!!! 돈도 받고~<br>건강해질 수 있게 HP도 회복시켜줘요.]]></text>
+		</message>
+		<message state="유저-카드획득타일-도착">
+			<text><![CDATA[이벤트카드를 받게 됐어요~<br>잘 보관해 두는 것 잊지마세요~! 언젠가 쓸모가 있을테니~^^]]></text>
+		</message>
+		<message state="유저-세금내는타일-도착">
+			<text><![CDATA[흐흐흑.. 안타깝지만 세금을 내야해요.<br>세금을 내야 TCG가 원할하게 유지된다구요~]]></text>
+		</message>
+		<message state="유저-세금걷는타일-도착">
+			<text><![CDATA[세금을 돌려받을 수 있어요. 부모님들 연말정산하는거 많이 봤지요?? 열심히 TCG 세금을 내준 보답이라고나 할까요?]]></text>
+		</message>
+		<message state="유저-방향전환타일-도착">
+			<text><![CDATA[음~ 어디로 가는 게 좋을까요?<br>원하는 길을 골라보세요.]]></text>
+		</message>
+		<message state="유저-워프타일-도착">
+			<text><![CDATA[위이잉~ 순간이동이예요 ~]]></text>
+		</message>
+		<message state="유저-무인도타일-도착">
+			<text><![CDATA[앗! 무인도에 갇혔어요.<br>황금열쇠가 있으면 나올수있어요. 그리고 주사위 2개의 눈이 같아야 빠져 나올 수 있지요. 안그럼 2턴간 쉬어야되요.]]></text>
+		</message>
+		<message state="유저-무인도타일-탈출성공">
+			<text><![CDATA[짝짝짝. 축하해요 !<br>어서 빨리 쫓아가세요!]]></text>
+		</message>
+		<message state="유저-무인도타일-탈출실패">
+			<text><![CDATA[흐흐흑.. 다음번엔 좀 더 잘해보자구요~]]></text>
+		</message>
+		<message state="유저-랜덤워프타일-도착">
+			<text><![CDATA[지이이잉~ 어디로 떨어질지 몰라요~<br>좋은 곳으로 떨어질까요?]]></text>
+		</message>
+		<message state="유저-강제매각타일-도착">
+			<text><![CDATA[잇힝.. 재수가 참 없어요.<br>강제로 영지를 빼앗도록 하겠어욧!.]]></text>
+		</message>
+		<message state="유저-상점타일-도착">
+			<text><![CDATA[]]></text>
+		</message>
+		<message state="유저-비행장타일-도착">
+			<text><![CDATA[비행기를 타고 ~ 휘잉~ 날아보아요~<br>가고싶은 곳을 골라보세요.]]></text>
+		</message>
+		<message state="유저-이동타일-도착">
+			<text><![CDATA[앞으로~ 앞으로~<br>TCG는 둥글진 않지만 앞으로 가보자구요~<br>몇 칸을 가냐구요? 그건 제맘이예욧~~]]></text>
+		</message>
+		<!-- 이벤트타일관련(npc) -->
+		<message state="npc-시작타일-도착">
+			<text><![CDATA[시작타일로 돌아왔으니 카드를 주고 hp를 회복시켜 줄게요~ ]]></text>
+		</message>
+		<message state="npc-카드획득타일-도착">
+			<text><![CDATA[어떤 카드를 가져갔을까요?]]></text>
+		</message>
+		<message state="npc-세금내는타일-도착">
+			<text><![CDATA[상대방도 세금을 내야지요?!!]]></text>
+		</message>
+		<message state="npc-세금걷는타일-도착">
+			<text><![CDATA[상대방이 세금을 다 회수하게 되었네요? 조금만 더 힘을 내자구요~!]]></text>
+		</message>
+		<message state="npc-방향전환타일-도착">
+			<text><![CDATA[어느 방향으로 이동할까요~?!]]></text>
+		</message>
+		<message state="npc-워프타일-도착">
+			<text><![CDATA[우우웅~~~이동합니다~<br> 친구들 영토에 이동했으면 좋겠지요?! ]]></text>
+		</message>
+		<message state="npc-무인도타일-도착">
+			<text><![CDATA[앗! 무인도에 갇혔네요~<br>우리 친구들에게는 희소식이지요?!]]></text>
+		</message>
+		<message state="npc-무인도타일-대기-탈출성공">
+			<text><![CDATA[오호~! 상대방이 탈출에 성공했어요?!]]></text>
+		</message>
+		<message state="npc-무인도타일-대기-탈출실패">
+			<text><![CDATA[음~ 상대방이 탈출에 실패했어요~ 이틈을 타 빨리 이동하자구요~!]]></text>
+		</message>
+		<message state="npc-랜덤워프타일-도착">
+			<text><![CDATA[우우웅~~~ 친구들 영토에 이동했으면 좋겠죠?! ]]></text>
+		</message>
+		<message state="npc-강제매각타일-도착">
+			<text><![CDATA[상대방이 영토를 팔게 되었네요? 분발해서 빈 영토에 도착하도록 해요~~]]></text>
+		</message>
+		<message state="npc-상점타일-도착">
+			<text><![CDATA[]]></text>
+		</message>
+		<message state="npc-비행장타일-도착">
+			<text><![CDATA[부웅~ 이동합니다~!]]></text>
+		</message>
+		<message state="npc-이동타일-도착">
+			<text><![CDATA[자 앞으로 무브무브~!]]></text>
+		</message>
+		<!-- UI관련 -->
+		<message state="카드교환">
+			<text><![CDATA[카드를 교환해야만해요~잘 골라서 바꿔보세요.<br>캐쉬카드를 교환하면 그 카드는 카드첩으로 다시 돌아가니까 <br>걱정하지마세요~]]></text>
+		</message>
+		<message state="전투-영토선택">
+			<text><![CDATA[어느 영토에 전투를 신청할까요 ?]]></text>
+		</message>
+		<message state="전투-비용설정">
+			<text><![CDATA[전투 자금에 따라 상대방에게 영향을 미칠수있어요.<br>가지고 있는 돈과 HP를 보고 잘 결정해보아요.]]></text>
+		</message>
+		<message state="전투-회피">
+			<text><![CDATA[상대가 나무집을 지어서 전투를 회피했어요~<br>나무집을 지으면 50%확률로 전투를 회피할 수 있다는 사실~! 알고있지요?]]></text>
+		</message>
+		<message state="건설-영토선택">
+			<text><![CDATA[어느 영토를 고를껀가요~?]]></text>
+		</message>
+		<message state="건설-건물선택">
+			<text><![CDATA[어떤 건물을 세울껀가요~?]]></text>
+		</message>
+		<message state="매각-영토/건물선택">
+			<text><![CDATA[영지나 건물을 판매하려구요?<br>어떤 것을 판매할래요?]]></text>
+		</message>
+		<message state="매각-강제매각">
+			<text><![CDATA[에구. 돈이 모자라요~<br>가지고 있던 영지와 건물을 팔아주세욧~!]]></text>
+		</message>
+	</systemMessages>
+</data>

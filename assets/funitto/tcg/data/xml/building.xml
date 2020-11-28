@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<buildings sale="1">
+		<building id="1" name="무기점" price="200" toll="200"/>
+		<building id="2" name="상점" price="200" toll="200"/>
+		<building id="3" name="콜로세움" price="200" toll="200"/>
+		<building id="4" name="나무집" price="200" toll="200"/>
+		<building id="5" name="펀콘샵" price="200" toll="200"/>
+		<building id="6" name="은행" price="400" toll="250"/>
+	</buildings>
+</data>

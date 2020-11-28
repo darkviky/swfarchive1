@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<goldcard>
+		<!-- 무기 -->
+		<card id="gba_001" type="무기" attacktype="근" name="단검" grade="1" power="10" speed="4" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gba_002" type="무기" attacktype="근" name="장검" grade="2" power="15" speed="3" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gba_003" type="무기" attacktype="근" name="투사의 검" grade="3" power="20" speed="3" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gba_004" type="무기" attacktype="근" name="여신의 검" grade="4" power="25" speed="4" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gba_005" type="무기" attacktype="근" name="사신의 검" grade="5" power="40" speed="2" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gba_006" type="무기" attacktype="원" name="목궁" grade="1" power="10" speed="5" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gba_007" type="무기" attacktype="원" name="석궁" grade="2" power="17" speed="2" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gba_008" type="무기" attacktype="원" name="궁사의 활" grade="3" power="21" speed="3" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gba_009" type="무기" attacktype="원" name="여신의 활" grade="4" power="28" speed="3" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gba_010" type="무기" attacktype="원" name="사신의 활" grade="5" power="33" speed="4" critical="0.3" appearance="1">카드기능설명</card>
+		<!-- 마법 -->
+		<card id="gbb_001" type="마법" attacktype="화" name="불꽃화살" grade="1" power="13" speed="5" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_002" type="마법" attacktype="화" name="불꽃팽이" grade="2" power="20" speed="3" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_003" type="마법" attacktype="화" name="불꽃연무" grade="3" power="25" speed="4" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_004" type="마법" attacktype="화" name="불꽃광란" grade="4" power="35" speed="2" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_005" type="마법" attacktype="화" name="불꽃지옥" grade="5" power="45" speed="1" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_006" type="마법" attacktype="냉" name="얼음화살" grade="1" power="12" speed="4" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_007" type="마법" attacktype="냉" name="얼음망치" grade="2" power="22" speed="2" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_008" type="마법" attacktype="냉" name="얼음사슬" grade="3" power="25" speed="3" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_009" type="마법" attacktype="냉" name="얼음광란" grade="4" power="38" speed="2" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_010" type="마법" attacktype="냉" name="얼음폭풍" grade="5" power="45" speed="1" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_011" type="마법" attacktype="토" name="돌주먹" grade="1" power="10" speed="4" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_012" type="마법" attacktype="토" name="돌우박" grade="2" power="18" speed="2" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_013" type="마법" attacktype="토" name="대지의 분노" grade="3" power="28" speed="3" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_014" type="마법" attacktype="토" name="암석거인" grade="4" power="35" speed="2" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_015" type="마법" attacktype="토" name="화산지진" grade="5" power="45" speed="1" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_016" type="마법" attacktype="풍" name="바람의 칼" grade="1" power="13" speed="4" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_017" type="마법" attacktype="풍" name="손돌바람" grade="2" power="17" speed="5" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_018" type="마법" attacktype="풍" name="번개바람" grade="3" power="22" speed="3" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_019" type="마법" attacktype="풍" name="바람채찍" grade="4" power="38" speed="2" critical="0.3" appearance="1">카드기능설명</card>
+		<card id="gbb_020" type="마법" attacktype="풍" name="번개폭풍" grade="5" power="45" speed="1" critical="0.3" appearance="1">카드기능설명</card>
+		<!-- 회복(hp=체력증가량) -->
+		<card id="gbc_001" type="회복" name="펀콘" hp="30" speed="7" appearance="1">카드기능설명</card>
+		<card id="gbc_002" type="회복" name="도너츠" hp="70" speed="7" appearance="1">카드기능설명</card>
+		<!-- 강화(avoid=전투회피 확률) -->
+		<card id="gbd_001" type="강화" name="회피 증가" avoid="0.5" speed="7" appearance="0">카드기능설명</card>
+	</goldcard>
+</data>

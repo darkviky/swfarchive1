@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<!-- 일반아이템 -->
+	<buff type="up" size="1" name="아즈로크 온천" amount="0.1" cash="false"/>
+	<buff type="up" size="1" name="아즈반점" amount="0.3" cash="false"/>
+	<buff type="up" size="2" name="패션거리" amount="0.5" cash="false"/>
+	
+	<buff type="down" size="1" name="선인장 군단" amount="-0.1" cash="false"/>
+	<buff type="down" size="1" name="냄새나는 항아리게" amount="-0.3" cash="false"/>
+	<buff type="down" size="2" name="쓰레기 산" amount="-0.5" cash="false"/>
+	<buff type="down" size="2" name="독벌소굴" amount="-0.7" cash="false"/>
+	
+	<!-- 캐쉬아이템 -->
+	<buff type="up" size="2" name="펀콘공장" amount="1" cash="true"/>
+	<buff type="up" size="2" name="아즈로크 놀이동산" amount="2" cash="true"/>
+	
+	<buff type="down" size="2" name="사타넬 타워" amount="-0.9" cash="true"/>
+	
+	
+</data>

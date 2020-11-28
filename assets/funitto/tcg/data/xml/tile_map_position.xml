@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<story id="1">
+		<episode id="1" x="833" y="322"/>
+		<episode id="2" x="456" y="528"/>
+		<episode id="3" x="974" y="385"/>
+		<episode id="4" x="852" y="326"/>
+		<episode id="5" x="833" y="318"/>
+		<episode id="6" x="902" y="360"/>
+		<episode id="7" x="826" y="324"/>
+	</story>
+	
+	<story id="2">
+		<episode id="1" x="944" y="609"/>
+		<episode id="2" x="931" y="590"/>
+		<episode id="3" x="691" y="337"/>
+		<episode id="4" x="697" y="342"/>
+		<episode id="5" x="684" y="338"/>
+		<episode id="6" x="690" y="341"/>
+		<episode id="7" x="690" y="341"/>
+	</story>
+	
+	<story id="3">
+		<episode id="1" x="1031" y="651"/>
+		<episode id="2" x="769" y="464"/>
+		<episode id="3" x="763" y="457"/>
+		<episode id="4" x="683" y="451"/>
+		<episode id="5" x="683" y="451"/>
+		<episode id="6" x="774" y="464"/>
+		<episode id="7" x="691" y="451"/>
+		<episode id="7" x="763" y="456"/>
+	</story>
+	
+	<story id="4">
+		<episode id="1" x="811" y="396"/>
+		<episode id="2" x="577" y="323"/>
+		<episode id="3" x="539" y="280"/>
+		<episode id="4" x="935" y="472"/>
+		<episode id="5" x="670" y="341"/>
+		<episode id="6" x="1161" y="476"/>
+	</story>
+	
+	<story id="5">
+		<episode id="1" x="1198" y="788"/>
+		<episode id="2" x="1356" y="779"/>
+		<episode id="3" x="861" y="641"/>
+		<episode id="4" x="870" y="315"/>
+		<episode id="5" x="1482" y="690"/>
+		<episode id="6" x="667" y="466"/>
+		<episode id="7" x="934" y="398"/>
+		<episode id="8" x="797" y="351"/>
+		<episode id="9" x="873" y="354"/>
+	</story>
+	
+	<story id="6">
+		<episode id="1" x="844" y="367"/>
+		<episode id="2" x="941" y="329"/>
+		<episode id="3" x="914" y="339"/>
+		<episode id="4" x="970" y="344"/>
+		<episode id="5" x="924" y="338"/>
+		<episode id="6" x="919" y="337"/>
+	</story>
+	
+	<story id="7">
+		<episode id="1" x="" y=""/>
+		<episode id="2" x="" y=""/>
+		<episode id="3" x="" y=""/>
+		<episode id="4" x="" y=""/>
+		<episode id="5" x="" y=""/>
+		<episode id="6" x="" y=""/>
+		<episode id="7" x="" y=""/>
+		<episode id="8" x="" y=""/>
+		<episode id="9" x="" y=""/>
+		<episode id="10" x="" y=""/>
+	</story>
+	
+	<story id="8">
+		<episode id="1" x="" y=""/>
+		<episode id="2" x="" y=""/>
+		<episode id="3" x="" y=""/>
+		<episode id="4" x="" y=""/>
+		<episode id="5" x="" y=""/>
+		<episode id="6" x="" y=""/>
+		<episode id="7" x="" y=""/>
+		<episode id="8" x="" y=""/>
+		<episode id="9" x="" y=""/>
+		<episode id="10" x="" y=""/>
+	</story>
+	
+	<story id="9">
+		<episode id="1" x="" y=""/>
+		<episode id="2" x="" y=""/>
+		<episode id="3" x="" y=""/>
+		<episode id="4" x="" y=""/>
+		<episode id="5" x="" y=""/>
+		<episode id="6" x="" y=""/>
+		<episode id="7" x="" y=""/>
+		<episode id="8" x="" y=""/>
+		<episode id="9" x="" y=""/>
+		<episode id="10" x="" y=""/>
+	</story>
+</data>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<characters>
+		<character id="1" name="제이풍" attacktype="근" movetype="run">
+			<eventcards>
+				<card id="gad_001" name="전투"/>
+				<card id="gaa_009" name="주사위 3"/>
+				<card id="gab_001" name="아즈로크 온천"/>
+			</eventcards>
+			<battlecards>
+				<card id="gba_001" name="단검"/>
+				<card id="gba_003" name="투사의 검"/>
+				<card id="gbb_003" name="불꽃연무"/>
+			</battlecards>
+		</character>
+		<character id="2" name="시유별" attacktype="원" movetype="run">
+			<eventcards>
+				<card id="gaa_004" name="GO!!! 4"/>
+				<card id="gaa_005" name="GO!!! 5"/>
+				<card id="gad_001" name="전투"/>
+			</eventcards>
+			<battlecards>
+				<card id="gba_006" name="목궁"/>
+				<card id="gbb_007" name="얼음 망치"/>
+				<card id="gba_007" name="석궁"/>
+			</battlecards>
+		</character>
+		<character id="3" name="아링" attacktype="토" movetype="teleport">
+			<eventcards>
+				<card id="gaa_003" name="GO!!! 3"/>
+				<card id="gab_002" name="아즈반점"/>
+				<card id="gad_001" name="전투"/>
+			</eventcards>
+			<battlecards>
+				<card id="gbb_011" name="돌우박"/>
+				<card id="gba_007" name="석궁"/>
+				<card id="gbb_013" name="대지의 분노"/>
+			</battlecards>
+		</character>
+		<character id="4" name="세지" attacktype="화" movetype="teleport">
+			<eventcards>
+				<card id="gad_001" name="전투"/>
+				<card id="gab_001" name="아즈로크 온천"/>
+				<card id="gaa_009" name="주사위 3"/>
+			</eventcards>
+			<battlecards>
+				<card id="gbb_001" name="불꽃화살"/>
+				<card id="gba_002" name="장검"/>
+				<card id="gba_009" name="여신의 활"/>
+			</battlecards>
+		</character>
+		<character id="5" name="뮤리" attacktype="냉" movetype="fly">
+			<eventcards>
+				<card id="gaa_010" name="주사위 4"/>
+				<card id="gad_001" name="전투"/>
+				<card id="gaa_002" name="GO!!! 2"/>
+			</eventcards>
+			<battlecards>
+				<card id="gbb_006" name="얼음화살"/>
+				<card id="gbb_008" name="얼음사슬"/>
+				<card id="gbb_002" name="불꽃팽이"/>
+			</battlecards>
+		</character>
+		<character id="6" name="테로" attacktype="토" movetype="teleport">
+			<eventcards>
+				<card id="gad_001" name="전투"/>
+				<card id="gad_001" name="전투"/>
+				<card id="gac_002" name="냄새나는 항아리게"/>
+			</eventcards>
+			<battlecards>
+				<card id="gbb_011" name="돌주멱"/>
+				<card id="gbb_013" name="대지의 분노"/>
+				<card id="gba_008" name="궁사의 활"/>
+			</battlecards>
+		</character>
+		<character id="7" name="산달폰" attacktype="풍" movetype="run">
+			<eventcards>
+				<card id="gaa_005" name="GO!!! 5"/>
+				<card id="gaa_006" name="GO!!! 6"/>
+				<card id="gab_001" name="아즈로크 온천"/>
+			</eventcards>
+			<battlecards>
+				<card id="gbb_016" name="바람의 칼"/>
+				<card id="gbb_018" name="번개바람"/>
+				<card id="gbb_009" name="얼음광란"/>
+			</battlecards>
+		</character>
+		<character id="8" name="꿀풍" attacktype="풍" movetype="run">
+			<eventcards>
+				<card id="gac_003" name="쓰레기 산"/>
+				<card id="gab_003" name="패션거리"/>
+				<card id="gad_001" name="전투"/>
+			</eventcards>
+			<battlecards>
+				<card id="gbb_018" name="번개바람"/>
+				<card id="gbb_008" name="얼음사슬"/>
+				<card id="gbb_019" name="바람채찍"/>
+			</battlecards>
+		</character>
+		<character id="9" name="사타넬" attacktype="풍" movetype="fly">
+			<eventcards>
+				<card id="gad_001" name="전투"/>
+				<card id="gad_001" name="전투"/>
+				<card id="gac_004" name="독벌소굴"/>
+			</eventcards>
+			<battlecards>
+				<card id="gbb_019" name="바람채찍"/>
+				<card id="gbb_003" name="불꽃연무"/>
+				<card id="gbb_008" name="얼음사슬"/>
+			</battlecards>
+		</character>
+		<character id="10" name="탐탐" attacktype="화" movetype="run">
+			<eventcards>
+				<card id="gaa_003" name="GO!!! 3"/>
+				<card id="gad_001" name="전투"/>
+				<card id="gac_001" name="선인장 군단"/>
+			</eventcards>
+			<battlecards>
+				<card id="gbb_002" name="불꽃 팽이"/>
+				<card id="gbb_018" name="번개바람"/>
+				<card id="gbb_003" name="불꽃연무"/>
+			</battlecards>
+		</character>
+		<character id="11" name="무쵸" attacktype="원" movetype="run">
+			<eventcards>
+				<card id="gad_001" name="전투"/>
+				<card id="gad_001" name="전투"/>
+				<card id="gac_001" name="선인장 군단"/>
+			</eventcards>
+			<battlecards>
+				<card id="gba_007" name="석궁"/>
+				<card id="gbb_003" name="불꽃연무"/>
+				<card id="gbb_016" name="바람의 칼"/>
+			</battlecards>
+		</character>
+		<character id="12" name="큰 게" attacktype="냉" movetype="run">
+			<eventcards>
+				<card id="gad_001" name="전투"/>
+				<card id="gad_001" name="전투"/>
+				<card id="gab_001" name="아즈로크 온천"/>
+			</eventcards>
+			<battlecards>
+				<card id="gbb_007" name="얼음망치"/>
+				<card id="gbb_017" name="손돌바람"/>
+				<card id="gbb_012" name="돌우박"/>
+			</battlecards>
+		</character>
+		<character id="13" name="항아리 게" attacktype="근" movetype="run">
+			<eventcards>
+				<card id="gaa_003" name="GO!!! 3"/>
+				<card id="gaa_004" name="GO!!! 4"/>
+				<card id="gaa_010" name="주사위 4"/>
+			</eventcards>
+			<battlecards>
+				<card id="gba_002" name="장검"/>
+				<card id="gba_007" name="석궁"/>
+				<card id="gbb_013" name="대지의 분노"/>
+			</battlecards>
+		</character>
+	</characters>
+</data>

@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<story id="1" name="아즈로크마을">
+		<episode id="1" mode="single" domain="0" money="1800" hp="100" turn="13">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="3" name="아링"/>
+				<character id="4" name="세지"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="2" mode="single" domain="0" money="1500" hp="100" turn="13">
+			<title><![CDATA[아즈로크 마을 경기 예선전(2)]]></title>
+			<characters>
+				<character id="4" name="세지"/>
+				<character id="3" name="아링"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="3" mode="single" domain="0" money="1750" hp="100" turn="20">
+			<title><![CDATA[아즈로크 마을 경기 예선]]></title>
+			<characters>
+				<character id="2" name="시유별"/>
+				<character id="4" name="세지"/>
+				<character id="3" name="아링"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="4" mode="team" domain="0" money="1500" hp="100" turn="20">
+			<title><![CDATA[아즈로크 마을 경기 본선]]></title>
+			<characters>
+				<character id="2" name="시유별"/>
+				<character id="1" name="제이풍"/>
+				<character id="3" name="아링"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="5" mode="team" domain="0" money="1500" hp="100" turn="20">
+			<title><![CDATA[아즈로크 마을 경기 결승]]></title>
+			<characters>
+				<character id="11" name="무쵸"/>
+				<character id="2" name="시유별"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="6" mode="team" domain="0" money="2500" hp="100" turn="30">
+			<title><![CDATA[아즈로크 마을 방해꾼 (1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="1" name="제이풍"/>
+				<character id="10" name="탐탐"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="7" mode="single" domain="1" money="1750" hp="100" turn="32">
+			<title><![CDATA[아즈로크 마을 방해꾼 (2)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+				<character id="4" name="세지"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+	</story>
+	<story id="2" name="설산">
+		<episode id="1" mode="single" domain="0" money="1800" hp="100" turn="15">
+			<title><![CDATA[설산의 축제 준비(1)]]></title>
+			<characters>
+				<character id="3" name="아링"/>
+				<character id="4" name="세지"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="2" mode="team" domain="0" money="1500" hp="100" turn="13">
+			<title><![CDATA[설산의 축제 준비(2)]]></title>
+			<characters>
+				<character id="3" name="아링"/>
+				<character id="4" name="세지"/>
+				<character id="3" name="아링"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="3" mode="single" domain="0" money="1250" hp="100" turn="20">
+			<title><![CDATA[설산 축제 경기(1)]]></title>
+			<characters>
+				<character id="4" name="세지"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="4" mode="single" domain="0" money="1250" hp="100" turn="20">
+			<title><![CDATA[설산 축제 경기(2)]]></title>
+			<characters>
+				<character id="3" name="아링"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="5" mode="team" domain="0" money="2000" hp="100" turn="20">
+			<title><![CDATA[설산 축제 방해꾼(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="3" name="아링"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="6" mode="team" domain="0" money="2000" hp="100" turn="35">
+			<title><![CDATA[설산 축제 방해꾼(2)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="1" name="제이풍"/>
+				<character id="10" name="탐탐"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="7" mode="team" domain="2" money="1750" hp="100" turn="30">
+			<title><![CDATA[모두의 설산 축제]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="2" name="시유별"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+	</story>
+	<story id="3" name="해변가">
+		<episode id="1" mode="team" domain="0" money="1800" hp="100" turn="15">
+			<title><![CDATA[해변 축제 (1)]]></title>
+			<characters>
+				<character id="4" name="세지"/>
+				<character id="5" name="뮤리"/>
+				<character id="2" name="시유별"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="2" mode="single" domain="0" money="1250" hp="100" turn="20">
+			<title><![CDATA[해변 축제 (2)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="3" mode="team" domain="0" money="1500" hp="100" turn="20">
+			<title><![CDATA[해변 축제 (3)]]></title>
+			<characters>
+				<character id="2" name="시유별"/>
+				<character id="3" name="아링"/>
+				<character id="5" name="뮤리"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="4" mode="team" domain="0" money="1500" hp="100" turn="20">
+			<title><![CDATA[해변 축제 결승]]></title>
+			<characters>
+				<character id="2" name="시유별"/>
+				<character id="3" name="아링"/>
+				<character id="5" name="뮤리"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="5" mode="team" domain="0" money="2000" hp="100" turn="20">
+			<title><![CDATA[해변을 훼손하는 사람들 막기 (1)]]></title>
+			<characters>
+				<character id="2" name="시유별"/>
+				<character id="3" name="아링"/>
+				<character id="6" name="테로"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="6" mode="team" domain="1" money="1750" hp="100" turn="30">
+			<title><![CDATA[해변을 훼손하는 사람들 막기 (2)]]></title>
+			<characters>
+				<character id="11" name="무쵸"/>
+				<character id="5" name="뮤리"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="7" mode="team" domain="1" money="2000" hp="100" turn="35">
+			<title><![CDATA[해변을 훼손하는 사람들 막기 (3)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="5" name="뮤리"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="8" mode="team" domain="0" money="1750" hp="100" turn="30">
+			<title><![CDATA[해변을 훼손하는 사람들 막기 (4)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="5" name="뮤리"/>
+				<character id="10" name="탐탐"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+	</story>
+	<story id="4" name="아링마을">
+		<episode id="1" mode="team" domain="0" money="1800" hp="100" turn="15">
+			<title><![CDATA[숲속의 환상 마을 (1)]]></title>
+			<characters>
+				<character id="11" name="무쵸"/>
+				<character id="3" name="아링"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="2" mode="single" domain="0" money="1800" hp="100" turn="20">
+			<title><![CDATA[숲속의 환상 마을 (2)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="3" mode="team" domain="0" money="1750" hp="100" turn="20">
+			<title><![CDATA[숲속의 환상 마을 (3)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="3" name="아링"/>
+				<character id="10" name="탐탐"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="4" mode="single" domain="0" money="1500" hp="100" turn="20">
+			<title><![CDATA[숲의 말썽쟁이]]></title>
+			<characters>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="5" mode="single" domain="0" money="1250" hp="100" turn="20">
+			<title><![CDATA[시유별의 한숨]]></title>
+			<characters>
+				<character id="2" name="시유별"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="6" mode="team" domain="1" money="2000" hp="100" turn="35">
+			<title><![CDATA[숲 청소]]></title>
+			<characters>
+				<character id="11" name="무쵸"/>
+				<character id="3" name="아링"/>
+				<character id="10" name="탐탐"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+	</story>
+	<story id="5" name="무지개마을">
+		<episode id="1" mode="single" domain="0" money="1500" hp="100" turn="13">
+			<title><![CDATA[무지개 마을의 방해꾼 (1)]]></title>
+			<characters>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="2" mode="team" domain="0" money="1750" hp="100" turn="20">
+			<title><![CDATA[무지개 마을의 방해꾼 (2)]]></title>
+			<characters>
+				<character id="11" name="무쵸"/>
+				<character id="2" name="시유별"/>
+				<character id="10" name="탐탐"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="3" mode="single" domain="0" money="1250" hp="100" turn="20">
+			<title><![CDATA[무지개 마을의 방해꾼 (3)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="8" name="꿀풍"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="4" mode="single" domain="0" money="1500" hp="100" turn="20">
+			<title><![CDATA[무지개 마을의 방해꾼 (4)]]></title>
+			<characters>
+				<character id="4" name="세지"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="5" mode="single" domain="0" money="1500" hp="100" turn="20">
+			<title><![CDATA[시유별의 변신 (1)]]></title>
+			<characters>
+				<character id="2" name="시유별"/>
+				<character id="2" name="시유별"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="6" mode="single" domain="0" money="2000" hp="100" turn="35">
+			<title><![CDATA[시유별의 변신 (2)]]></title>
+			<characters>
+				<character id="2" name="시유별"/>
+				<character id="2" name="시유별"/>
+				<character id="2" name="시유별"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="7" mode="single" domain="0" money="1750" hp="100" turn="32">
+			<title><![CDATA[무지개 마을의 방해꾼]]></title>
+			<characters>
+				<character id="11" name="무쵸"/>
+				<character id="10" name="탐탐"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="8" mode="single" domain="1" money="1250" hp="100" turn="25">
+			<title><![CDATA[시유별의 변신 (3)]]></title>
+			<characters>
+				<character id="2" name="시유별"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="9" mode="single" domain="1" money="1500" hp="100" turn="25">
+			<title><![CDATA[모두의 무지개 마을]]></title>
+			<characters>
+				<character id="3" name="아링"/>
+				<character id="4" name="세지"/>
+				<character id="5" name="뮤리"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+	</story>
+	<story id="6" name="고원지대">
+		<episode id="1" mode="team" domain="0" money="1750" hp="100" turn="20">
+			<title><![CDATA[고산의 악동들 (1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="6" name="테로"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="2" mode="single" domain="0" money="1500" hp="100" turn="20">
+			<title><![CDATA[고산의 악동들 (2)]]></title>
+			<characters>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="3" mode="single" domain="0" money="1500" hp="100" turn="20">
+			<title><![CDATA[고산의 악동들 (3)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="4" mode="single" domain="0" money="1750" hp="100" turn="20">
+			<title><![CDATA[고산의 악동들 (4)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="5" mode="team" domain="0" money="2000" hp="100" turn="20">
+			<title><![CDATA[시유별의 도움]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+		<episode id="6" mode="team" domain="1" money="1250" hp="100" turn="25">
+			<title><![CDATA[고산의 지배자]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission type="영지소유" amount="3" bonus="500"><![CDATA[내 영지를 {amount}개 이상 보유하라]]></mission>
+				<mission type="건물건설-은행" amount="1" bonus="1000"><![CDATA[은행을 {amount}개 이상 지어라]]></mission>
+			</missions>
+		</episode>
+	</story>
+	<story id="7" name="도깨비산">
+		<episode id="1" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="2" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="3" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="4" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="5" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="6" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="7" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+	</story>
+	<story id="8" name="봉인지">
+		<episode id="1" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="2" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="3" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="4" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="5" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="6" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="7" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+	</story>
+	<story id="9" name="이상한 나라">
+		<episode id="1" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="2" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="3" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="4" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="5" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="6" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+		<episode id="7" mode="single" domain="2" money="1250" hp="100" turn="22">
+			<title><![CDATA[아즈로크 마을 경기 예선전(1)]]></title>
+			<characters>
+				<character id="10" name="탐탐"/>
+				<character id="11" name="무쵸"/>
+			</characters>
+			<missions>
+				<mission><![CDATA[내 영지를 5개 이상 보유하라]]></mission>
+				<mission><![CDATA[1명을 내 땅에서 파산시켜라]]></mission>
+			</missions>
+		</episode>
+	</story>
+</data>

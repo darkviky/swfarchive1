@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<goldcard>
+		<!-- 이동 -->
+		<card id="gaa_001" name="GO!!! 1" appearance="0.2">
+			1칸 전진할 수 있는 카드>
+		</card>
+		<card id="gaa_002" name="GO!!! 2" appearance="0.3">
+			2칸 전진할 수 있는 카드>
+		</card>
+		<card id="gaa_003" name="GO!!! 3" appearance="0.4">
+			3칸 전진할 수 있는 카드>
+		</card>
+		<card id="gaa_004" name="GO!!! 4" appearance="1">
+			4칸 전진할 수 있는 카드>
+		</card>
+		<card id="gaa_005" name="GO!!! 5" appearance="1">
+			5칸 전진할 수 있는 카드>
+		</card>
+		<card id="gaa_006" name="GO!!! 6" appearance="1">
+			6칸 전진할 수 있는 카드>
+		</card>
+		<card id="gaa_007" name="Goal!!! Go~" appearance="0.5">
+			시작타일로 이동할 수 있는 카드>
+		</card>
+		<card id="gaa_008" name="Go~ ??" appearance="1">
+			무작위로 몇칸을 이동할 수 있는 카드>
+		</card>
+		<card id="gaa_009" name="주사위 3" appearance="0.7">
+			주사위를 3개 사용할 수 있는 카드>
+		</card>
+		<card id="gaa_010" name="주사위 4" appearance="0.8">
+			주사위를 4개 사용할 수 있는 카드>
+		</card>
+		
+		<!-- 축복 -->
+		<card id="gab_001" name="아즈로크 온천" appearance="0.7">
+			세워진 위치로부터 인접한 지역의 세금을 10% UP>
+		</card>
+		<card id="gab_002" name="아즈반점" appearance="0.5">
+			세워진 위치로부터 인접한 지역의 세금을 30% UP>
+		</card>
+		<card id="gab_003" name="패션거리" appearance="0.3">
+			세워진 위치로부터 인접한 지역의 세금을 50% UP>
+		</card>
+		<card id="gab_004" name="무기교환" appearance="0">
+			카드기능설명>
+		</card>
+		<card id="gab_005" name="행운카드" appearance="0">
+			카드기능설명>
+		</card>
+		<card id="gab_006" name="행운" appearance="1">
+			카드기능설명>
+		</card>
+		<card id="gab_007" name="대행운" appearance="1">
+			카드기능설명>
+		</card>
+		
+		<!-- 저주 -->
+		<card id="gac_001" name="선인장 군단" appearance="0.7">
+			세워진 위치로부터 인접한 지역의 세금을 10% Down>
+		</card>
+		<card id="gac_002" name="냄새나는 항아리게" appearance="0.6">
+			세워진 위치로부터 인접한 지역의 세금을 30% Down>
+		</card>
+		<card id="gac_003" name="쓰레기 산" appearance="0.5">
+			세워진 위치로부터 인접한 지역의 세금을 50% Down>
+		</card>
+		<card id="gac_004" name="독벌소굴" appearance="0.3">
+			세워진 위치로부터 인접한 지역의 세금을 70% Down>
+		</card>
+		<card id="gac_005" name="불행" appearance="0.6">
+			카드기능설명>
+		</card>
+		<card id="gac_006" name="대불행" appearance="0.3">
+			카드기능설명>
+		</card>
+		<card id="gac_007" name="사신의 저주" appearance="0.1">
+			카드기능설명>
+		</card>
+		<card id="gac_008" name="약탈" appearance="0">
+			카드기능설명>
+		</card>
+		<card id="gac_009" name="대도둑가면" appearance="0">
+			카드기능설명>
+		</card>
+		<card id="gac_010" name="물 폭탄" appearance="0">
+			카드기능설명>
+		</card>
+		
+		<!-- 기타 -->
+		<card id="gad_001" name="전투" appearance="1">
+			전투를 신청할 수 있는 카드>
+		</card>
+	</goldcard>
+
+</data>
