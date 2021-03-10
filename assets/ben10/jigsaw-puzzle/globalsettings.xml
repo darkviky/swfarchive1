@@ -1,0 +1,25 @@
+<globalsettings>
+<lang>
+	<puzzles><![CDATA[Puzzles]]></puzzles>
+	<congratz><![CDATA[Congratulations]]></congratz>
+	<welcome><![CDATA[Click on a thumbnail to start a puzzle.]]></welcome>
+	<keep><![CDATA[]]></keep>
+	<back><![CDATA[Back]]></back>
+</lang>
+<thumbs>
+	<thumb1><![CDATA[puzzle-1.jpg]]></thumb1>
+	<thumb2><![CDATA[puzzle-2.jpg]]></thumb2>
+	<thumb3><![CDATA[puzzle-3.jpg]]></thumb3>
+	<thumb4><![CDATA[puzzle-4.jpg]]></thumb4>
+	<thumb5><![CDATA[puzzle-5.jpg]]></thumb5>
+	<thumb6><![CDATA[puzzle-6.jpg]]></thumb6>
+</thumbs>
+<titles>
+	<title1><![CDATA[Puzzle #1]]></title1>
+	<title2><![CDATA[Puzzle #2]]></title2>
+	<title3><![CDATA[Puzzle #3]]></title3>
+	<title4><![CDATA[Puzzle #4]]></title4>
+	<title5><![CDATA[Puzzle #5]]></title5>
+	<title6><![CDATA[Puzzle #6]]></title6>
+</titles>
+</globalsettings>
